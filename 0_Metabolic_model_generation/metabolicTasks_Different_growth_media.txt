@@ -1,0 +1,130 @@
+	ID	DESCRIPTION	SHOULD FAIL	IN	IN LB	IN UB	OUT	OUT LB	OUT UB	EQU	EQU LB	EQU UB	CHANGED RXN	CHANGED LB	CHANGED UB	PRINT FLUX	COMMENTS	REFERENCES	EXPLANATIONS
+#	ER: Energy and redox; IC: Internal conversions; SU: Substrate utilization; BS: Biosynthesis of products; GR: Growth																		
+#	Growth Ham's media																		
+	GR	Growth on Ham's media (biomass production)		alanine[e]			ALLMETSIN[e]												
+				alpha-tocopherol[e]			biomass[e]	1											
+				aquacob(III)alamin[e]															
+				arginine[e]															
+				asparagine[e]															
+				aspartate[e]															
+				biotin[e]															
+				choline[e]															
+				cysteine[e]															
+				Fe2+[e]															
+				folate[e]															
+				gamma-tocopherol[e]															
+				glucose[e]															
+				glutamate[e]															
+				glutamine[e]															
+				glycine[e]															
+				H2O[e]															
+				histidine[e]															
+				hypoxanthine[e]															
+				inositol[e]															
+				isoleucine[e]															
+				leucine[e]															
+				linoleate[e]															
+				linolenate[e]															
+				lipoic acid[e]															
+				lysine[e]															
+				methionine[e]															
+				nicotinamide[e]															
+				O2[e]															
+				pantothenate[e]															
+				phenylalanine[e]															
+				Pi[e]															
+				proline[e]															
+				pyridoxine[e]															
+				retinoate[e]															
+				riboflavin[e]															
+				serine[e]															
+				sulfate[e]															
+				thiamin[e]															
+				threonine[e]															
+				thymidine[e]															
+				tryptophan[e]															
+				tyrosine[e]															
+				valine[e]															
+
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
+																			
